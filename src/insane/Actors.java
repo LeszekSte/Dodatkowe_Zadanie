@@ -1,6 +1,8 @@
+package insane;
+
 public class Actors {
-   private String firstName;
-   private String lastName;
+    private String firstName;
+    private String lastName;
     private String countryOfOrigin;
 
     public Actors(String firstName, String lastName, String countryOfOrigin) {

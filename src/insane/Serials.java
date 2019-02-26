@@ -1,3 +1,5 @@
+package insane;
+
 public class Serials {
     private String title;
     private int numberOfSeasons;
